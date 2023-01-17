@@ -1,6 +1,6 @@
 # Applic de big data en astronomie
 
-##  L'optimisation des algorithmes d'imagerie pour le traitement à grande échelle en astronomie 
+##  1. L'optimisation des algorithmes d'imagerie pour le traitement à grande échelle en astronomie 
 
 L'optimisation des algorithmes d'imagerie pour le traitement à grande échelle en astronomie est un aspect essentiel de l'analyse et de la compréhension de la grande quantité de données générées par les télescopes et autres instruments astronomiques. L'objectif principal est d'améliorer les performances des algorithmes de traitement d'images pour traiter des ensembles de données à grande échelle tout en maintenant le plus haut niveau de précision possible.
 L'un des principaux défis de l'imagerie astronomique est la gestion de la distorsion des images, du bruit et du grand champ de vision. Pour y remédier, des techniques telles que l'optique adaptative, les algorithmes de réduction du bruit et l'imagerie en mosaïque peuvent être utilisées.
